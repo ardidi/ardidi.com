@@ -1,7 +1,8 @@
 ### Site Settings ###
 title               : Shan Ti Chuang
 description         : >-
-                      Hi, I am a software developer in Taiwan
+                      A software developer currently based in Taiwan. 
+                      Work to creating interactive applications and experiences on the web.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
