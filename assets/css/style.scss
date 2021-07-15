@@ -1,0 +1,27 @@
+---
+---
+@import "portfolYOU";
+
+#attribution i {
+	font-weight: normal;
+}
+
+
+#attribution {
+	opacity: 0.8;
+}
+
+#attribution .fa-line {
+	color: #02c402;
+}
+
+
+#attribution .fa-envelope {
+	#color: #c0c0c0;
+}
+
+@media only screen and (min-width: 768px){
+	#attribution i{
+		transform: rotate(180deg);
+	}
+}
