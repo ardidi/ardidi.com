@@ -1,8 +1,5 @@
 ### Site Settings ###
 title               : Shan Ti Chuang
-description         : >-
-                      A software developer currently based in Taiwan. 
-                      Work to creating interactive applications and experiences on the web.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -20,13 +17,13 @@ nav_exclude:                                            # The following paths ar
   - pages/index.md
   - pages/blog.html
   - documentation/partials/**                           # For Documentation Only
-  - documentation/github.md                           # For Documentation Only
+  - documentation/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
   name              : ardidi
-  image             : //www.gravatar.com/avatar/329f04f469be515bfbc8173ea5a96a98?s=250&d=mm&r=x
+  image             : //www.gravatar.com/avatar/329f04f469be515bfbc8173ea5a96a98?s=500&d=mm&r=x
 #  behance           : your_username
 # dribbble          : your_username
   email             : ardidi@gmail.com
